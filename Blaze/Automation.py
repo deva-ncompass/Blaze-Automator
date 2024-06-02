@@ -328,3 +328,4 @@ class Bot:
             print([total_result, bet_results])
             return [total_result, bet_results]
 
+
